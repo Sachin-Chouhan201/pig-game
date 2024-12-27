@@ -2,6 +2,10 @@
 
 Pig Game is a two-player dice game where players take turns to roll a single die as many times as they wish, adding the result to their score. If a player rolls a 1, they lose all points accumulated in that turn and it becomes the next player's turn. The first player to reach a specified winning score wins the game.
 
+This is main Logic of Pig game showing in Logic Diagram:
+
+![Screen Shot 2020-12-10 at 11 06 17 AM](./assets/pig-game-flowchart.png)
+
 ## Table of Contents
 
 - [Features](#features)
